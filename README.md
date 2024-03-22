@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://okaysaga.io)
 <h1 align="center">Hi 👋, I'm Sujal Kumar</h1>
-<h3 align="center">A frontend developer and a Web 3.0 Enthusiast</h3>
+<h3 align="center">A full stack developer and a Web 3.0 Enthusiast</h3>
 <img align ="right" alt="Coding" width="400" src="https://media1.giphy.com/media/8dPbkqUb2p5XTvIXLx/200w.webp?cid=ecf05e471obzte05c0012k4sxd2uvunklgbr59klqgv2l135&ep=v1_gifs_search&rid=200w.webp&ct=g">
 
 
@@ -8,19 +8,19 @@
 
 <p align="left"> <a href="https://twitter.com/iamsujalraj" target="blank"><img src="https://img.shields.io/twitter/follow/iamsujalraj?logo=twitter&style=for-the-badge" alt="iamsujalraj" /></a> </p>
 
-- 🔭 I’m currently working on **Solidwaste Management system**
+- 🔭 I’m currently working on ** Management system**
 
-- 🌱 I’m currently learning **React,MERN,Blockchain**
+- 🌱 I’m currently learning **MERN,Blockchain**
 
 - 👨‍💻 All of my projects are available at [http://saga.infinityfreeapp.com/?i=1](http://saga.infinityfreeapp.com/?i=1)
 
 - 📝 I regularly write articles on [https://hashnode.com/@Saga99](https://hashnode.com/@Saga99)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react, nodejs **
 
 - 📫 How to reach me **sujal31012003@gmail.com**
 
-- ⚡ Fun fact **I forget to do fun so N/A**
+- ⚡ Fun fact **I forget to do fun sometime so N/A**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
